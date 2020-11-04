@@ -17,7 +17,7 @@ There are few things you need to configure before running this bot.
 
 ## Install
 
- - Clone the repository `git clone https://github.com/ProGamer368/Miscrosoft-Teams-Attender`
+ - Clone the repository `git clone https://github.com/ProGamer368/teams-online-classes-attender`
  - Install requirements.txt `pip install -r requirements.txt`
  
 
@@ -25,4 +25,4 @@ There are few things you need to configure before running this bot.
 
  - Run the bot `python bot.py`
 
-Written on Python3.
+Written with Python3
